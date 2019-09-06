@@ -1,6 +1,6 @@
 package p14;
 
-public class Main {
+public class BugSong {
     public static void main(String[] args) {
         int bugNum = 99;
         String word = "bugs";
