@@ -7,7 +7,7 @@ public class BugSong {
 
         while(bugNum > 0){
 
-            System.out.println(bugNum + " annoying ass " + word + " in the code");
+            System.out.println(bugNum + " annoying ass " + word + " in the code.");
 
             System.out.println(bugNum + " annoying ass " + word + ".");
             System.out.println("Take one down.");
@@ -19,7 +19,7 @@ public class BugSong {
                 word = "bug";
 
             if(bugNum > 0){
-                System.out.println(bugNum + " annoying ass " + word + " in the code");
+                System.out.println(bugNum + " annoying ass " + word + " in the code.");
             } else {
                 System.out.println("No more annoying ass bugs in the code!");
             }
